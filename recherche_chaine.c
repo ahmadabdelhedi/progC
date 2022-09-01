@@ -30,10 +30,5 @@ int main()
          }
          if(i==strlen(ch)-strlen(ch1))
             printf("%s n'existe pas dans %s",ch1,ch);
-
-
-
-
-
     return 0;
 }
